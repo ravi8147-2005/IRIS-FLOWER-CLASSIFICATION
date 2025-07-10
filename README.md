@@ -63,6 +63,6 @@ The Random Forest model outputs feature importances that help identify which mea
 
 📬 Let's Connect!  
 I’m always open to feedback, collaboration, or freelance data science and data analyst projects.  
-📫 Connect with me on[LinkedIn](https://www.linkedin.com/in/your-username/)
+📫 Connect with me on[LinkedIn](https://www.linkedin.com/in/rudrappakattimani/)
 
 
