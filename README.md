@@ -55,9 +55,16 @@ The Random Forest model outputs feature importances that help identify which mea
 ---
 
 📈 Results
+
 Accuracy: ~96%
 
 Most Important Feature: Petal length
 
 Confusion Matrix: Shows very low misclassification
+
+---
+
+📬 Let's Connect!  
+I’m always open to feedback, collaboration, or freelance data science and data analyst projects.  
+📫 Connect with me on [LinkedIn](www.linkedin.com/in/rudrappakattimani)  
 
