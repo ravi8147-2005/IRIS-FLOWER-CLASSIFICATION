@@ -54,11 +54,10 @@ The Random Forest model outputs feature importances that help identify which mea
 
 ---
 
-##📁 Project Structure
-iris-flower-classification
-│
-├── IRIS.csv                      # Dataset
-├── iris_flower_classification.py # Main Python script
-├── app.py                        # (Optional) Streamlit app
-├── README.md                     # Project documentation
-└── requirements.txt              # List of dependencies
+📈 Results
+Accuracy: ~96%
+
+Most Important Feature: Petal length
+
+Confusion Matrix: Shows very low misclassification
+
