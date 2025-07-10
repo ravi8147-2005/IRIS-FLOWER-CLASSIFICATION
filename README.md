@@ -54,9 +54,11 @@ The Random Forest model outputs feature importances that help identify which mea
 
 ---
 
-## 🚀 How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/iris-flower-classification.git
-   cd iris-flower-classification
+##📁 Project Structure
+iris-flower-classification
+│
+├── IRIS.csv                      # Dataset
+├── iris_flower_classification.py # Main Python script
+├── app.py                        # (Optional) Streamlit app
+├── README.md                     # Project documentation
+└── requirements.txt              # List of dependencies
